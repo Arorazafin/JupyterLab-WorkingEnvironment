@@ -15,6 +15,6 @@ Docker
 -In the Launcher tab:  
 Open a `"Python3" Notebook`
 
-![](README-img1.PNG)
+![](README-img1.png)
 
 -For more codes, go to `project00` or create your own project by creating a new forlder `project01`, ...
