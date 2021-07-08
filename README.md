@@ -6,10 +6,10 @@ Docker
 (for the first use, download it on  https://www.docker.com/products/docker-desktop)
 
 ## Run JupyterLab
--In your terminal:  
+-In your Terminal window:  
 `$ docker-compose up`
 
--in your browser:  
+-In your web-browser window:  
 `http://127.0.0.1:8888/lab`
 
 -In the Launcher tab:  
